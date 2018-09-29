@@ -7,3 +7,5 @@ Original repo (without colab compatible modifications): https://github.com/fasta
 [Video](http://course.fast.ai/lessons/lesson1.html)
 
 [Wiki](http://forums.fast.ai/t/wiki-lesson-1/9398)
+
+[View in Google Colab](https://colab.research.google.com/github/bhoomit/fastai-dl1-colab/blob/master/src/notebooks/lesson1.ipynb)
