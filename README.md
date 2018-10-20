@@ -20,3 +20,10 @@ Original repo (without colab compatible modifications): https://github.com/fasta
 [Google Colab Lesson 2 (Dog Breeds)](https://colab.research.google.com/github/bhoomit/fastai-dl1-colab/blob/master/src/notebooks/lesson1_breeds.ipynb)
 
 [Google Colab Lesson 2 (ResNext)](https://colab.research.google.com/github/bhoomit/fastai-dl1-colab/blob/master/src/notebooks/lesson1-rxt50.ipynb)
+
+## Lesson 3 
+[Video](http://course.fast.ai/lessons/lesson3.html)
+
+[Wiki](https://forums.fast.ai/t/wiki-lesson-3/9401)
+
+[Kaggle Kernel](https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-3)
